@@ -17,4 +17,5 @@ Usually we have all this textual data and there are too many dimensions, or feat
 
 ### Tokenization
 This is where we split sentences into words (or, tokens)
+- We can use a vanilla tokenizer, which I did first
 - We can use nltk's WhiteSpaceTokenizer to break a sentence into tokens (words) without whitespaces
